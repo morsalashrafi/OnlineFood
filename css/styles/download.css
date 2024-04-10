@@ -1,0 +1,23 @@
+.download {
+    @apply w-full h-[450px] bg-no-repeat bg-contain bg-orange-100
+}
+
+.apps-banner-img {
+    @apply -m-4
+}
+
+.download-col {
+    @apply w-full md:w-8/12 lg:w-6/12 xl:w-5/12 mt-24
+}
+
+.download-heading {
+    @apply text-3xl font-medium mt-4
+}
+
+.download-paragraph {
+    @apply text-gray-800 mt-4
+}
+
+.c-icon--ios, .c-icon--android {
+    @apply w-2/5
+}
